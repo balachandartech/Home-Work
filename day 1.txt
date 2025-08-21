@@ -1,0 +1,18 @@
+types of varaibles
+                  *illegal
+                  *legal
+legal varaibles
+
+age = 25
+_name = "Bala"
+user1 = "Balachandar"
+total_amount = 1000
+MAX_LIMIT = 500 
+
+illegal varaibles
+
+1name = "Bala"      #can't start with number
+user-name = "Ram"   # cannot use hyphen
+class = "TCS"       # reserved keyword
+my var = 20         # spaces not allowed
+@data = 50          # special characters not allowed
